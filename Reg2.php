@@ -1,5 +1,4 @@
 
-<!--Hi -->
 <html>
     <head>
         <title>Registartion2</title>
